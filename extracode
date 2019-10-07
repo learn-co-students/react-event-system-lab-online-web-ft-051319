@@ -1,0 +1,12 @@
+<div className="password">
+
+<input className="pw" type="password" onKeyUp={this.handleKey} />
+
+</div>
+
+-- from index.js
+
+<div>
+  <Keypad />
+  <EyesOnMe />
+</div>
